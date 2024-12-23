@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slide div{
+    margin: 8px;
+}
+
+.slick-arrow:before{
+    color: #FFAA1D;
+    font-size: 40px;
+    margin-right: 5px;
+    
+}
